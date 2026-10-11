@@ -1,0 +1,32 @@
+{
+  "name": "@almadar/lolo-ar",
+  "version": "1.0.0",
+  "description": "Arabic (العربية) language pack for the Almadar .lolo/.orb language — write and read programs in Arabic.",
+  "license": "BSL-1.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/almadar-io/lolo-ar.git"
+  },
+  "homepage": "https://orb.almadar.io",
+  "keywords": [
+    "almadar",
+    "orb",
+    "lolo",
+    "language-pack",
+    "ar"
+  ],
+  "files": [
+    "vocabulary.json"
+  ],
+  "orbVocabulary": {
+    "compiler": ">=17.11.2",
+    "vocabulary": "vocabulary.json"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org",
+    "access": "public"
+  },
+  "scripts": {
+    "test": "node scripts/check.mjs"
+  }
+}
