@@ -573,6 +573,7 @@
     "atomic": "ذري",
     "behavior/apply": "سلوك/تطبيق",
     "behavior/ref": "سلوك/مرجع",
+    "behavior/resolve": "سلوك/محلول",
     "behavior/catalog": "سلوك/فهرس",
     "behavior/compose": "سلوك/تركيب",
     "behavior/describe": "سلوك/وصف",
