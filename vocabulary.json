@@ -83,6 +83,7 @@
     "instance": "نسخة",
     "collection": "مجموعة",
     "background": "خلفي",
+    "visible": "مرئي",
     "mock": "وهمي"
   },
   "categories": {
@@ -173,7 +174,6 @@
     "datetime": "تاريخ_ووقت",
     "duration": "مدة",
     "money": "مبلغ_مالي",
-    "scalar": "عددي",
     "file": "ملف",
     "email": "بريد_إلكتروني",
     "url": "رابط",
@@ -491,6 +491,7 @@
     "viewType": "نوع_العرض",
     "visual_prompt": "موجه_بصري",
     "vocabulary": "مفردات",
+    "whileVisible": "أثناء_الظهور",
     "seedMock": "بذر_وهمي",
     "localeInstances": "نسخ_اللغة",
     "diagram": "مخطط",
@@ -597,6 +598,7 @@
     "contract/validate-input": "عقد/تحقق_المدخلات",
     "contract/validate-output": "عقد/تحقق_المخرجات",
     "contract/violations": "عقد/مخالفات",
+    "csv/parse": "سي_إس_في/تحليل",
     "data/augment": "بيانات/زيادة_البيانات",
     "data/dataloader": "بيانات/محمل_البيانات",
     "data/dataset": "بيانات/مجموعة_بيانات",
