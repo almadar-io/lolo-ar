@@ -134,7 +134,9 @@
     "update": "تحديث",
     "delete": "حذف",
     "icon": "أيقونة",
-    "roles": "أدوار"
+    "roles": "أدوار",
+    "invariant": "لامتغير",
+    "holds": "يصح"
   },
   "sigils": {
     "entity": "كيان",
