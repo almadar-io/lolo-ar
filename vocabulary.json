@@ -637,6 +637,7 @@
     "browser/tab-act": "متصفح/تفاعل_تبويب",
     "browser/tab-apply": "متصفح/تطبيق_على_تبويب",
     "browser/tab-apply-many": "متصفح/تطبيق_عدة_على_تبويب",
+    "browser/tab-capture": "متصفح/التقاط_تبويب",
     "browser/tab-close": "متصفح/إغلاق_تبويب",
     "browser/tab-list": "متصفح/قائمة_التبويبات",
     "browser/tab-navigate": "متصفح/تنقل_تبويب",
