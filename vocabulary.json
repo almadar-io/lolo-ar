@@ -51,6 +51,7 @@
     "lazy": "مؤجل",
     "locales": "لغات",
     "egress": "منافذ_الخروج",
+    "themes": "مظاهر",
     "inbound": "وارد",
     "answers": "يجيب",
     "verifies": "يتحقق",
@@ -136,7 +137,8 @@
     "icon": "أيقونة",
     "roles": "أدوار",
     "invariant": "لامتغير",
-    "holds": "يصح"
+    "holds": "يصح",
+    "ensures": "يضمن"
   },
   "sigils": {
     "entity": "كيان",
@@ -151,6 +153,7 @@
     "prevStates": "الحالات_السابقة",
     "fromState": "من_حالة",
     "toState": "إلى_حالة",
+    "fromEntity": "من_كيان",
     "locale": "اللغة"
   },
   "effects": {
@@ -256,6 +259,9 @@
     "_metadata": "بيانات_وصفية",
     "_resolved": "_محلول",
     "access_waivers": "إعفاءات_الوصول",
+    "ensures": "يضمن",
+    "holds": "يصح",
+    "invariants": "لامتغيرات",
     "alias": "اسم_مستعار",
     "animations": "رسوم_متحركة",
     "appliesTo": "ينطبق_على",
@@ -356,6 +362,7 @@
     "header": "ترويسة",
     "credential": "اعتماد",
     "egress": "منافذ_الخروج",
+    "themes": "مظاهر",
     "osGrants": "صلاحيات_النظام",
     "deployment": "نشر",
     "initialEffects": "التأثيرات_الأولية",
