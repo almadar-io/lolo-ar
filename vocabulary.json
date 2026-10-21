@@ -51,6 +51,7 @@
     "lazy": "مؤجل",
     "locales": "لغات",
     "egress": "منافذ_الخروج",
+    "store": "مخزن",
     "themes": "مظاهر",
     "inbound": "وارد",
     "answers": "يجيب",
@@ -97,7 +98,8 @@
     "collection": "مجموعة",
     "background": "خلفي",
     "visible": "مرئي",
-    "mock": "وهمي"
+    "mock": "وهمي",
+    "store": "مخزن"
   },
   "categories": {
     "interaction": "تفاعل",
@@ -362,6 +364,7 @@
     "header": "ترويسة",
     "credential": "اعتماد",
     "egress": "منافذ_الخروج",
+    "store": "مخزن",
     "themes": "مظاهر",
     "osGrants": "صلاحيات_النظام",
     "deployment": "نشر",
@@ -960,7 +963,6 @@
     "program/dispatch": "برنامج/إرسال",
     "program/eval": "برنامج/تقييم",
     "program/inputs": "برنامج/مدخلات",
-    "program/machine": "برنامج/آلة",
     "program/print": "برنامج/طباعة",
     "program/read": "برنامج/قراءة",
     "program/step": "برنامج/خطوة",
