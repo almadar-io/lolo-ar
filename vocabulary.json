@@ -233,6 +233,7 @@
     "event": "حدث",
     "EventAddress": "عنوان_حدث",
     "CallKey": "مفتاح_استدعاء",
+    "field": "حقل",
     "slot": "فتحة",
     "pattern": "نمط",
     "Map": "خريطة",
