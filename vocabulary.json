@@ -80,7 +80,10 @@
     "noindex": "بلا_فهرسة",
     "version": "إصدار",
     "translationOf": "ترجمة_من",
-    "label": "تسمية"
+    "label": "تسمية",
+    "input": "مدخل",
+    "http": "ويب",
+    "boot": "إقلاع"
   },
   "shapes": {
     "Entity": "كيان",
@@ -93,23 +96,16 @@
     "persistent": "دائم",
     "runtime": "وقت_التشغيل",
     "shared": "مشترك",
-    "local": "محلي",
+    "client": "عميل",
+    "optimistic": "متفائل",
+    "server": "خادم",
+    "browser": "متصفح",
     "identity": "هوية",
-    "instance": "نسخة",
-    "collection": "مجموعة",
     "background": "خلفي",
     "visible": "مرئي",
-    "mock": "وهمي",
     "store": "مخزن"
   },
-  "categories": {
-    "interaction": "تفاعل",
-    "integration": "تكامل",
-    "lifecycle": "دورة_حياة",
-    "game-core": "أساسيات_اللعبة",
-    "game-entity": "كيان_اللعبة",
-    "game-ui": "واجهة_اللعبة"
-  },
+  "categories": {},
   "capabilities": {
     "read": "قراءة",
     "write": "كتابة",
@@ -566,7 +562,12 @@
     "signIn": "تسجيل_الدخول",
     "sourcePage": "الصفحة_الأصلية",
     "translationOf": "ترجمة_من",
-    "pageModifiers": "معدلات_الصفحات"
+    "pageModifiers": "معدلات_الصفحات",
+    "dispatch": "توزيع",
+    "protocol": "بروتوكول",
+    "address": "وجهة",
+    "browser": "متصفح",
+    "input": "مدخل"
   },
   "operators": {
     "as": "كـ",
