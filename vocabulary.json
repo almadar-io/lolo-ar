@@ -83,7 +83,7 @@
     "translationOf": "ترجمة_من",
     "label": "تسمية",
     "input": "مدخل",
-    "http": "ويب",
+    "http": "طلب_شبكة",
     "boot": "إقلاع"
   },
   "shapes": {
