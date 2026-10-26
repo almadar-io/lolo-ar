@@ -11,7 +11,6 @@
     "expects": "يتوقع",
     "entity": "كيان",
     "type": "نوع",
-    "derived": "مشتق",
     "trait": "سمة",
     "initial": "أولي",
     "state": "حالة",
@@ -139,7 +138,8 @@
     "invariant": "لامتغير",
     "holds": "يصح",
     "ensures": "يضمن",
-    "index": "فهرس"
+    "index": "فهرس",
+    "derived": "مشتق"
   },
   "sigils": {
     "entity": "كيان",
@@ -266,6 +266,7 @@
     "holds": "يصح",
     "invariants": "لامتغيرات",
     "indexes": "فهارس",
+    "derived": "مشتق",
     "orderBy": "رتب_حسب",
     "alias": "اسم_مستعار",
     "animations": "رسوم_متحركة",
