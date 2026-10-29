@@ -101,6 +101,7 @@
     "server": "خادم",
     "browser": "متصفح",
     "identity": "هوية",
+    "self": "ذاتي",
     "background": "خلفي",
     "visible": "مرئي",
     "store": "مخزن"
