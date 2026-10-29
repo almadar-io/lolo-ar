@@ -80,6 +80,7 @@
     "noindex": "بلا_فهرسة",
     "version": "إصدار",
     "translationOf": "ترجمة_من",
+    "notFound": "غير_موجود",
     "label": "تسمية",
     "input": "مدخل",
     "http": "طلب_شبكة",
@@ -140,7 +141,8 @@
     "holds": "يصح",
     "ensures": "يضمن",
     "index": "فهرس",
-    "derived": "مشتق"
+    "derived": "مشتق",
+    "display": "عرض"
   },
   "sigils": {
     "entity": "كيان",
@@ -385,6 +387,7 @@
     "intrinsic": "جوهري",
     "isFinal": "أخير",
     "isInitial": "أولي",
+    "isNotFound": "غير_موجود",
     "isTerminal": "نهائي",
     "item": "عنصر",
     "items": "عناصر",
@@ -563,6 +566,7 @@
     "localeInstances": "نسخ_اللغة",
     "diagram": "مخطط",
     "scene": "مشهد",
+    "display": "عرض",
     "access": "وصول",
     "indexing": "فهرسة",
     "origin": "أصل",
