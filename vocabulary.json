@@ -1029,6 +1029,8 @@
     "str/truncate": "نص/بتر",
     "str/upper": "نص/كبير",
     "str/uri-component-valid": "نص/مكون_عنوان_صالح",
+    "theme/clear": "مظهر/مسح",
+    "theme/set": "مظهر/تعيين",
     "time/add": "وقت/إضافة",
     "time/day": "وقت/يوم",
     "time/diff": "وقت/فرق",
