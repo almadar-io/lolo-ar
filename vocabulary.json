@@ -1154,6 +1154,8 @@
     "gzip/decompress": "جزيب/فك-ضغط",
     "tar/entries": "تار/مدخلات",
     "program/live": "برنامج/حي",
+    "program/open": "برنامج/فتح",
+    "program/close": "برنامج/إغلاق",
     "session/append-history": "جلسة/إلحاق_السجل",
     "session/read-analysis": "جلسة/قراءة_التحليل",
     "session/read-errors": "جلسة/قراءة_الأخطاء",
