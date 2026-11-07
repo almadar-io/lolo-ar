@@ -1179,7 +1179,6 @@
     "session/write-errors": "جلسة/كتابة_الأخطاء",
     "session/write-memory": "جلسة/كتابة_الذاكرة",
     "session/write-spec": "جلسة/كتابة_المواصفة",
-    "trace/emit": "تتبع/بث",
     "tree/index": "شجرة/فهرس",
     "value/depth": "قيمة/عمق",
     "value/key": "قيمة/مفتاح",
