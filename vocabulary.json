@@ -1103,6 +1103,7 @@
     "str/repeat": "نص/تكرار",
     "str/replace": "نص/استبدال",
     "str/replace-pattern": "نص/استبدال_بنمط",
+    "str/find-pattern": "نص/بحث_بنمط",
     "str/replaceAll": "نص/استبدال_الكل",
     "str/reverse": "نص/عكس",
     "str/slice": "نص/شريحة",
