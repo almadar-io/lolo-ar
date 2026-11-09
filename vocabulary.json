@@ -607,6 +607,8 @@
     "orb": "مدار_مفرد",
     "places": "أماكن",
     "protocols": "بروتوكولات",
+    "serverListens": "استماعات_الخادم",
+    "listen": "استماع",
     "record": "قيد_سجلي",
     "typeContractVersion": "إصدار_عقد_الأنواع",
     "wired": "موصول"
