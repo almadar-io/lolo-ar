@@ -253,6 +253,7 @@
     "event": "حدث",
     "EventAddress": "عنوان_حدث",
     "CallKey": "مفتاح_استدعاء",
+    "MessageKey": "مفتاح_رسالة",
     "field": "حقل",
     "slot": "فتحة",
     "pattern": "نمط",
