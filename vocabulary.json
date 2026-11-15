@@ -1064,6 +1064,7 @@
     "program/eval": "برنامج/تقييم",
     "program/host-ask": "برنامج/سؤال_المضيف",
     "program/inputs": "برنامج/مدخلات",
+    "program/lazy": "برنامج/مؤجل",
     "program/live": "برنامج/حي",
     "program/navigate": "برنامج/انتقال",
     "program/open": "برنامج/فتح",
