@@ -851,6 +851,7 @@
     "kernel/queue-back": "نواة/طابور_خلف",
     "kernel/queue-front": "نواة/طابور_أمام",
     "kernel/stamp": "نواة/ختم",
+    "kernel/step": "نواة/خطوة",
     "kernel/worklist": "نواة/قائمة_العمل",
     "kv/batch": "مفاتيح/دفعة",
     "kv/delete": "مفاتيح/حذف",
